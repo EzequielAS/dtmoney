@@ -1,6 +1,6 @@
 # DTMoney
 
-### Skills importantes no projeto:
+### Important Skills:
 <ul>
   <li>React</li>
   <li>Styled-Components</li>
@@ -22,7 +22,7 @@
   <img src="./github/home.png" />
 </div>
 
-## Modal de transações
+## Transactions Modal
 
 <div 
     style="
